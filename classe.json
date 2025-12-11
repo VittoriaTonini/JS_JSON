@@ -1,6 +1,8 @@
 {
     "nome": "3C",
     "scuola": "Scuola Elementare Miao",
+    "numAlunni": 21,
+    "scuolaSabato": false,
     "insegnanti": [
         {
             "nome": "Sara",
